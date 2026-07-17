@@ -43,7 +43,7 @@ python3 --version
 
 ### 2. Clone the Repository
 ```bash
-git clone https: 
+git clone https: https://github.com/kpensalenaondongu8-cyber/My-Projects.git
 cd  kpensalenaondongu8-cyber 
 ```
 
